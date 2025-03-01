@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, я SlidrusForeal! 🚀
 
-<!--
-**SlidrusForeal/SlidrusForeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 О себе:
+Программирую разные вещи, автоматизирую задачи и создаю удобные инструменты для серверов. Люблю писать код, который упрощает жизнь!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Мои проекты:
+- 🛡 **Asuka-discordbot** — умный бот для Discord с автоматизацией
+- 🏷 **Minecraft-UUID-parser** — парсер UUID по никнейму
+- 🌐 **SMPParser** — инструмент для сбора данных об игроках на  SMP Minecraft-серверах
+- 🚫 **blacklist-site** — веб-приложение для управления чёрным список городов на серверах minecraft
+- 📝 **MyPasteBin** — собственный PasteBin с поддержкой Python и HTML
+- 🎨 **HueSos** — IPlogger проект с Flask и PostgreSQL
+- 🤖 **NoSos** — Интеграция heatmap с аномалиями передвижения интеграция с telegram ботом
+- 🔐 **UnSos** — инструмент для шифрования данных
