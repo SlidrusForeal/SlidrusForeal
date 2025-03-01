@@ -7,7 +7,7 @@
 - 🛡 **Asuka-discordbot** — умный бот для Discord с автоматизацией
 - 🏷 **Minecraft-UUID-parser** — парсер UUID по никнейму
 - 🌐 **SMPParser** — инструмент для сбора данных об игроках на  SMP Minecraft-серверах
-- 🚫 **blacklist-site** — веб-приложение для управления чёрным список городов на серверах minecraft
+- 🚫 **black-list-site** — веб-приложение для управления чёрным список городов на серверах minecraft
 - 📝 **MyPasteBin** — собственный PasteBin с поддержкой Python и HTML
 - 🎨 **HueSos** — IPlogger проект с Flask и PostgreSQL
 - 🤖 **NoSos** — Интеграция heatmap с аномалиями передвижения интеграция с telegram ботом
