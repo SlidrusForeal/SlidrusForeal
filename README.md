@@ -18,9 +18,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlidrusForeal&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlidrusForeal&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlidrusForeal&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlidrusForeal&layout=compact&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SlidrusForeal&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
