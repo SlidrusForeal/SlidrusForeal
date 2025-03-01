@@ -13,7 +13,7 @@
 - 🤖 **NoSos** — Интеграция heatmap с аномалиями передвижения интеграция с telegram ботом
 - 🔐 **UnSos** — инструмент для шифрования данных
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)
 
