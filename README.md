@@ -11,7 +11,7 @@ I love writing code that makes life easier!
 - 🛡 **Asuka-discordbot** — a smart Discord bot with automation features  
 - 🏷 **Minecraft-UUID-parser** — parses UUIDs from player nicknames  
 - 🌐 **SMPParser** — a tool for collecting data about players on SMP Minecraft servers  
-- 🚫 **black-list-site/sosmark.ru** — web app for managing a blacklist of cities on Minecraft servers  
+- 🚫 **black-list-site** — web app for managing a blacklist of cities on Minecraft servers  
 - 📝 **MyPasteBin** — a custom PasteBin with Python and HTML support  
 - 🎨 **HueSos** — IP logger project using Flask and PostgreSQL  
 - 🤖 **NoSos** — heatmap integration for movement anomalies with a Telegram bot  
@@ -26,6 +26,15 @@ I love writing code that makes life easier!
 ![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
