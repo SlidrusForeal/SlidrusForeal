@@ -21,8 +21,6 @@ I love writing code that makes life easier!
 
 ### 🧰 Tech Stack & Tools
 
-### 🧰 Tech Stack & Tools
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-16-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.1-blue?style=for-the-badge&logo=typescript&logoColor=white)
