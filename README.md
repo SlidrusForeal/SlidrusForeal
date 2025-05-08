@@ -32,7 +32,6 @@ I love writing code that makes life easier!
 ![Docker](https://img.shields.io/badge/Docker-24.0.6-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.27-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?style=for-the-badge&logo=vercel&logoColor=white)
-![SPWorlds](https://img.shields.io/badge/SPWorlds-Payments-red?style=for-the-badge&logo=spworlds)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-ff69b4?style=for-the-badge&logo=json-web-tokens)
 ![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
