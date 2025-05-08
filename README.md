@@ -8,7 +8,6 @@ I love writing code that makes life easier!
 
 ### 🔧 My Projects
 
-- 🛡 **Asuka-discordbot** — a smart Discord bot with automation features  
 - 🏷 **Minecraft-UUID-parser** — parses UUIDs from player nicknames  
 - 🌐 **SMPParser** — a tool for collecting data about players on SMP Minecraft servers  
 - 🚫 **black-list-site** — web app for managing a blacklist of cities on Minecraft servers  
