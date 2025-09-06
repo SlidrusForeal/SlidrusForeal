@@ -30,7 +30,6 @@ I love writing code that makes life easier!
 ![Supabase](https://img.shields.io/badge/Supabase-2.0-purple?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-24.0.6-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.27-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-ff69b4?style=for-the-badge&logo=json-web-tokens)
 ![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
