@@ -1,4 +1,4 @@
-# Hi, I’m SlidrusForeal! 🚀
+# Hi, I’m K1zik! 🚀
 
 ### 🛠 About Me
 I code all sorts of things, automate tasks, and build convenient tools for servers.  
