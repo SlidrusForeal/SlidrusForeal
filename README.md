@@ -20,7 +20,10 @@ I love writing code that makes life easier!
 * 🤖 **Asuka Discord Bot** — First attempt in discord helping bots
 * 🌟 **Suisei** — More advanced discord bot that has many features that help server owner
 * 🛠️ **SPmWork** — Freelance platform on minecraft server SPmini (DECOMMISIONED)
+* 😼 **BaboStyle** — Double project parser + analyzer of Court cases on Spworlds servers
+* ⚔️ **LawsuitsSP bot** — Background checking bot for SPworlds servers
 * 🕷️ **WebCrawler** — a web crawler
+
 
 ---
 
