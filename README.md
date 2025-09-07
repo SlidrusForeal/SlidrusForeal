@@ -19,7 +19,7 @@ I love writing code that makes life easier!
 * 💥 **ExplosionProtector** — Minecraft plugin that prevents blocks that player placed breaking via explosion
 * 🤖 **Asuka Discord Bot** — First attempt in discord helping bots
 * 🌟 **Suisei** — More advanced discord bot that has many features that help server owner
-* 🛠️ **SPmWork** — Freelance platform on server SPmini
+* 🛠️ **SPmWork** — Freelance platform on minecraft server SPmini (DECOMMISIONED)
 * 🕷️ **WebCrawler** — a web crawler
 
 ---
