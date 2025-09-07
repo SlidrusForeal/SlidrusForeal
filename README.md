@@ -8,14 +8,19 @@ I love writing code that makes life easier!
 
 ### 🔧 My Projects
 
-- 🏷 **Minecraft-UUID-parser** — parses UUIDs from player nicknames  
-- 🌐 **SMPParser** — a tool for collecting data about players on SMP Minecraft servers  
-- 🚫 **black-list-site** — web app for managing a blacklist of cities on Minecraft servers  
-- 📝 **MyPasteBin** — a custom PasteBin with Python and HTML support  
-- 🎨 **HueSos** — IP logger project using Flask and PostgreSQL  
-- 🤖 **NoSos** — heatmap integration for movement anomalies with a Telegram bot  
-- 🔐 **UnSos** — a data encryption tool  
-- 🕷️ **WebCrawler** — a web crawler
+* 🏷 **Minecraft-UUID-parser** — parses UUIDs from player nicknames
+* 🌐 **SMPParser** — a tool for collecting data about players on SMP Minecraft servers
+* 🚫 **black-list-site** — web app for managing a blacklist of cities on Minecraft servers
+* 📝 **MyPasteBin** — a custom PasteBin with Python and HTML support
+* 🎨 **HueSos** — IP logger project using Flask and PostgreSQL
+* 🤖 **NoSos** — heatmap integration for movement anomalies with a Telegram bot
+* 🔐 **UnSos** — a data encryption tool
+* 🪙 **DiscordAuth** — Minecraft plugin + discord bot for authentication purposes
+* 💥 **ExplosionProtector** — Minecraft plugin that prevents blocks that player placed breaking via explosion
+* 🤖 **Asuka Discord Bot** — First attempt in discord helping bots
+* 🌟 **Suisei** — More advanced discord bot that has many features that help server owner
+* 🛠️ **SPmWork** — Freelance platform on server SPmini
+* 🕷️ **WebCrawler** — a web crawler
 
 ---
 
